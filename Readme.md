@@ -24,7 +24,14 @@ cd hu_lecture_20200114/
 
 Create and activate a python environment using virtualenv or (ana)conda.
 
+Install the required packages:
+
 ```sh
 pip install -r requirements
+```
+
+Run the program:
+
+```sh
 python flappy_fish/
 ```
