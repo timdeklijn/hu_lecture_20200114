@@ -1,10 +1,17 @@
 # HU Lecture
 
-[Google notebooks](https://colab.research.google.com/)
+To open de code examples, click on the notebooks folder. Then click a notebook , this opens the notebook in github. To be able to run the code, click the `run in colab` button on top of the notebook.
 
 ## Tensorflow playground
 
 [tensorflow playground](https://playground.tensorflow.org/)
+
+## Advanced Examples
+
+[Move 37 - Alpha Go](https://www.youtube.com/watch?v=HT-UZkiOLv8)
+[Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY)
+[Fake People](https://www.thispersondoesnotexist.com/)
+[AlphaStar - StarCraft](https://www.youtube.com/watch?v=UuhECwm31dM)
 
 ## Flappy Fish
 
