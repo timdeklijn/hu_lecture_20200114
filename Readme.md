@@ -8,10 +8,10 @@ To open de code examples, click on the notebooks folder. Then click a notebook ,
 
 ## Advanced Examples
 
-[Move 37 - Alpha Go](https://www.youtube.com/watch?v=HT-UZkiOLv8)
-[Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY)
-[Fake People](https://www.thispersondoesnotexist.com/)
-[AlphaStar - StarCraft](https://www.youtube.com/watch?v=UuhECwm31dM)
+- [Move 37 - Alpha Go](https://www.youtube.com/watch?v=HT-UZkiOLv8)
+- [Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY)
+- [Fake People](https://www.thispersondoesnotexist.com/)
+- [AlphaStar - StarCraft](https://www.youtube.com/watch?v=UuhECwm31dM)
 
 ## Flappy Fish
 
